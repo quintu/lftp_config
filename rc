@@ -13,4 +13,4 @@ alias k kill
 # when downloading directories, get 4 files at a time, each in 4 segments
 alias m mirror --parallel=4 --use-pget-n=4
 # when downloading single files, download it in 8 segments
-alias p pget -n=8
+alias p pget -n 8
